@@ -1,0 +1,48 @@
+body {
+    --darkreader-bg--tw-bg-opacity: 1;
+    background-color: rgb(24, 26, 27);
+    
+}
+
+.titulos {
+    text-align: center;
+    background-color: rgba(53, 80, 109, 0.438);
+    color:antiquewhite;
+    margin-left: 39%;
+    margin-right: 39%;
+}
+
+.titulossecundarios { 
+    margin-left: 270px;
+    background-color: rgba(53, 80, 109, 0.438);
+    color:antiquewhite;
+    margin-right: 1480px;
+
+}
+
+.experiencia {
+    background-color: rgba(53, 80, 109, 0.438);
+    color: azure;
+    margin-left: 270px;
+    margin-right: 1230px;
+}
+
+#intro {
+    background-color: rgba(53, 80, 109, 0.438);
+    color:antiquewhite;
+    margin-left: 270px;
+    margin-right: 940px;
+}
+
+img {
+    float: left;
+    border-style: dotted;
+    border-radius: 20px;
+    margin-right: 35px;
+}
+
+a:visited {
+    color: red;
+}
+
+
